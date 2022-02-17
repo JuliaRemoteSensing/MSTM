@@ -1,0 +1,2 @@
+option('with-mpi', type: 'boolean', value : false)
+option('with-mpich', type: 'boolean', value : false)
